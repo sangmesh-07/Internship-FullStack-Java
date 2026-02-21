@@ -1,0 +1,68 @@
+Day 6 – Methods and Command Line Arguments
+
+Full Stack Web Development with Java Internship
+
+Today’s session focused on understanding methods in Java and their importance in modular programming. The mentor explained how methods help in organizing code into smaller, reusable blocks, making programs more structured and maintainable.
+
+🔹 Topics Covered
+1️⃣ Methods in Java
+
+A method is a block of code that performs a specific task and can be called whenever needed.
+
+The lecture covered:
+
+Method declaration and definition
+
+Syntax and structure of a method
+
+Access modifiers
+
+Return types
+
+Method invocation
+
+Understood how breaking a program into methods improves readability and reusability.
+
+2️⃣ Parameters and Return Types
+
+Explained how parameters are passed to methods.
+
+Difference between formal parameters and actual arguments.
+
+How return types work in sending values back to the calling method.
+
+Use of void when no value is returned.
+
+3️⃣ Command Line Arguments
+
+The mentor introduced command line arguments, which allow input to be provided at the time of program execution.
+
+Key learnings:
+
+Arguments are stored in String[] args of the main method.
+
+How to access input using args[index].
+
+Importance of type conversion when working with numeric input.
+
+4️⃣ Variable-Length Arguments (Varargs)
+
+The session also covered variable-length arguments using ....
+
+Allows a method to accept a flexible number of parameters.
+
+Treated internally as an array.
+
+Provides flexibility in method design.
+
+🎯 Learning Outcome
+
+Understood the concept of modular programming.
+
+Learned how methods improve code reusability.
+
+Gained knowledge of parameter passing and return types.
+
+Learned how to pass input through command line arguments.
+
+Improved overall program structuring skills.
