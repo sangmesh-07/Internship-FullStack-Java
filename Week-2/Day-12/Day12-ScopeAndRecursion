@@ -1,0 +1,76 @@
+Day 12 – Scope and Recursion in Java
+
+Full Stack Web Development with Java Internship
+
+Today’s lecture focused on two important concepts in Java: Scope and Recursion. The mentor explained how variable visibility works within a program and how recursive methods solve problems efficiently.
+
+🔹 Topics Covered
+1️⃣ Scope in Java
+
+Scope defines the visibility and lifetime of variables within a program.
+
+The session covered different types of scope:
+
+✅ Local Variables
+
+Declared inside a method, constructor, or block.
+
+Accessible only within that specific block.
+
+Created when method starts and destroyed when method ends.
+
+✅ Instance Variables
+
+Declared inside a class but outside methods.
+
+Belong to an object (instance) of the class.
+
+Each object has its own copy.
+
+✅ Class-Level (Static) Variables
+
+Declared using static keyword.
+
+Shared among all objects of the class.
+
+Memory allocated only once.
+
+The mentor demonstrated how scope affects variable accessibility and how improper usage can cause errors.
+
+🔹 2️⃣ Recursion in Java
+
+Recursion is a process where a method calls itself to solve a problem.
+
+Key concepts discussed:
+
+Recursive method structure
+
+Importance of a base condition
+
+Preventing infinite recursion
+
+Step-by-step execution flow
+
+The mentor explained how recursion works internally using function calls stored in the call stack.
+
+🔹 Key Points About Recursion
+
+Every recursive method must have a base case.
+
+Recursive calls reduce the problem size step by step.
+
+If the base condition is missing, it can lead to StackOverflowError.
+
+Recursion is commonly used in factorial, Fibonacci, and tree problems.
+
+🎯 Learning Outcomes
+
+Understood different types of variable scope in Java.
+
+Learned how scope affects visibility and lifetime of variables.
+
+Gained clarity on recursive method structure.
+
+Understood importance of base condition in recursion.
+
+Improved logical thinking and problem-solving approach.
