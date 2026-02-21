@@ -1,0 +1,78 @@
+Day 10 – Advanced String Handling & Regular Expressions
+
+Full Stack Web Development with Java Internship
+
+Today’s session focused on advanced string handling concepts in Java, including differences between String, StringBuffer, and StringBuilder, along with an introduction to Regular Expressions.
+
+🔹 Topics Covered
+1️⃣ String vs StringBuffer vs StringBuilder
+
+The mentor explained the key differences based on mutability, performance, and thread-safety.
+
+✅ String
+
+Immutable (cannot be modified once created)
+
+Stored in the String Pool (if created using literals)
+
+Creates a new object whenever modified
+
+✅ StringBuffer
+
+Mutable (can be modified without creating a new object)
+
+Thread-safe (synchronized methods)
+
+Slightly slower due to synchronization
+
+✅ StringBuilder
+
+Mutable
+
+Not thread-safe
+
+Faster than StringBuffer
+
+Preferred when thread-safety is not required
+
+2️⃣ String Pool Concept
+
+String literals are stored in a special memory area called the String Pool.
+
+Duplicate string literals share the same memory reference.
+
+Helps in memory optimization.
+
+Strings created using new keyword are stored in heap memory.
+
+3️⃣ Regular Expressions (Regex)
+
+The session introduced Regular Expressions for pattern matching and text validation.
+
+Key classes discussed:
+
+Pattern class → Used to define regex pattern
+
+Matcher class → Used to match pattern with input text
+
+Applications of Regex:
+
+Email validation
+
+Phone number validation
+
+Password strength checking
+
+Searching and replacing patterns in text
+
+🎯 Learning Outcomes
+
+Understood differences between String, StringBuffer, and StringBuilder.
+
+Learned about mutability and thread-safety concepts.
+
+Gained clarity on memory management using String Pool.
+
+Understood basics of Regular Expressions and pattern matching.
+
+Strengthened knowledge of advanced string manipulation techniques.
