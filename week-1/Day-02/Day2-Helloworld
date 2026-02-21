@@ -1,0 +1,75 @@
+:📅 Day 2 – First Technical Lecture
+
+Full Stack Web Development with Java
+
+Today I attended the first technical lecture of the Full Stack Web Development with Java internship. The session introduced the concept of Java Full Stack development and provided a foundational understanding of how Java works internally.
+
+🔹 Topics Covered:
+
+Introduction to Java Full Stack Development
+
+Overall architecture of Java
+
+Explanation of:
+
+JVM (Java Virtual Machine) – Responsible for executing Java bytecode and providing platform independence.
+
+JRE (Java Runtime Environment) – Provides libraries and environment required to run Java applications.
+
+JDK (Java Development Kit) – Includes development tools like compiler (javac), debugger, and JRE.
+
+🔹 Understanding Java Architecture:
+
+Learned how Java source code (.java file) is compiled into bytecode (.class file) using the compiler, and how the JVM executes this bytecode. Understood the concept of “Write Once, Run Anywhere (WORA)” which makes Java platform independent.
+
+🔹 Real-World Applications of Java:
+
+The session also highlighted the versatility of Java across various domains:
+
+Android application development
+
+Enterprise-level applications
+
+Web applications using Spring and Hibernate frameworks
+
+Big data technologies
+
+Desktop GUI applications
+
+Game development
+
+Scientific computing
+
+Cloud-based systems
+
+🔹 Key Takeaways:
+
+Gained clarity on how Java programs are compiled and executed.
+
+Understood the difference between JVM, JRE, and JDK.
+
+Realized the wide scope and industry demand of Java Full Stack development.
+
+Strengthened foundational knowledge required for backend development.
+
+🎯 Practical Steps Taken:
+
+Installed and configured JDK on my system.
+
+Verified Java installation using command line.
+
+Created and executed a basic “Hello World” program.
+
+Updated my GitHub repository with today’s notes.
+
+If you want, I can also prepare:
+
+📌 A short 10-line version
+
+💼 A more technical version (interview-ready)
+
+📝 A simple humanized version
+
+📊 A structured README template for your full internship diary
+
+Tell me which style you prefer 👍
