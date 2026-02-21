@@ -1,0 +1,40 @@
+Day 4 – Conditional Statements
+
+Full Stack Web Development with Java Internship
+
+Today’s lecture focused on conditional statements in Java. The mentor explained how decision-making is implemented in programs using different conditional constructs.
+
+🔹 Topics Covered
+1️⃣ if Statement
+
+Used to execute a block of code when a specified condition is true.
+
+2️⃣ if-else Statement
+
+Used to execute one block of code if the condition is true and another block if the condition is false.
+
+3️⃣ else-if Ladder
+
+Used when multiple conditions need to be checked sequentially.
+
+4️⃣ switch Statement
+
+Used when multiple cases depend on a single variable. It improves readability compared to multiple if-else conditions.
+
+🔹 Key Concepts Learned
+
+How conditions are evaluated using relational operators (>, <, ==, !=).
+
+Use of logical operators (&&, ||, !) to combine multiple conditions.
+
+Importance of break statement in switch-case.
+
+Flow of execution in decision-making structures.
+
+🎯 Learning Outcome
+
+Understood how programs make decisions.
+
+Learned to implement logic-based conditions.
+
+Improved understanding of control flow in Java.
