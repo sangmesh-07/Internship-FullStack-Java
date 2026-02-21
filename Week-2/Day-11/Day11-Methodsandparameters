@@ -1,0 +1,67 @@
+Day 11 – Methods and Parameters in Java
+
+Full Stack Web Development with Java Internship
+
+Today’s session focused on understanding the concept of methods in Java and how they help in organizing programs into reusable blocks of code. The mentor explained how methods improve modularity, readability, and maintainability of programs.
+
+🔹 Topics Covered
+1️⃣ Introduction to Methods
+
+A method is a block of code designed to perform a specific task.
+Methods allow programs to be divided into smaller, manageable sections.
+
+Benefits of using methods:
+
+Code reusability
+
+Better organization
+
+Easier debugging
+
+Improved readability
+
+2️⃣ Structure of a Method
+
+The structure of a method includes:
+
+Access Modifier → Defines visibility (public, private, etc.)
+
+Return Type → Specifies the type of value returned
+
+Method Name → Identifier for the method
+
+Parameter List → Inputs passed to the method
+
+🔹 General Syntax:
+accessModifier returnType methodName(parameters) {
+    // method body
+}
+3️⃣ Parameters and Arguments
+
+Parameters → Variables defined in method declaration.
+
+Arguments → Actual values passed when calling the method.
+
+The session explained how values are passed to methods and how they affect program execution.
+
+4️⃣ Method Calling and Returning Values
+
+How to invoke a method from the main method.
+
+Use of return statement to send values back.
+
+Use of void when no value is returned.
+
+Examples were demonstrated to show how methods accept input, process data, and return results.
+
+🎯 Learning Outcomes
+
+Understood the importance of modular programming.
+
+Learned the structure and syntax of methods.
+
+Gained clarity on parameters and arguments.
+
+Learned how methods return values.
+
+Improved understanding of structured program design.
