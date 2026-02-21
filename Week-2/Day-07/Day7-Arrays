@@ -1,0 +1,64 @@
+📅 Day 7 – Introduction to Arrays
+
+Full Stack Web Development with Java Internship
+
+Today’s session focused on the concept of arrays in Java. The mentor explained how arrays are used to store multiple values of the same data type in a single variable, making data management more efficient and organized.
+
+🔹 Topics Covered
+1️⃣ Introduction to Arrays
+
+Definition of an array
+
+Importance of arrays in storing multiple values
+
+Memory allocation and index-based storage
+
+Understanding that array indexing starts from 0
+
+2️⃣ Array Declaration and Initialization
+
+Syntax for declaring an array
+
+Different ways to initialize arrays
+
+Allocating memory using the new keyword
+
+Assigning values at the time of declaration
+
+3️⃣ Accessing Array Elements
+
+Using index values to access elements
+
+Understanding arrayName[index]
+
+Importance of index boundaries
+
+Avoiding ArrayIndexOutOfBoundsException
+
+4️⃣ Traversing Arrays
+
+Using for loop to iterate through arrays
+
+Understanding array length using .length property
+
+Accessing each element sequentially
+
+5️⃣ Basic Array Operations
+
+Searching elements
+
+Modifying elements
+
+Updating values at specific index positions
+
+🎯 Learning Outcome
+
+Understood the purpose and structure of arrays.
+
+Learned how to declare, initialize, and access array elements.
+
+Gained clarity on traversing arrays using loops.
+
+Practiced basic operations like searching and updating values.
+
+Strengthened foundational knowledge for handling collections of data.
