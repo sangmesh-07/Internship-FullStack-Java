@@ -1,0 +1,61 @@
+Day 9 – String Concepts in Java
+
+Full Stack Web Development with Java Internship
+
+Today’s session focused on understanding the concept of Strings in Java and how they are used to handle textual data in programs.
+
+🔹 Topics Covered
+1️⃣ Introduction to Strings
+
+A String is a sequence of characters used to store text.
+
+Strings in Java are objects of the String class.
+
+Strings are immutable (cannot be changed once created).
+
+2️⃣ Creating Strings
+
+Two ways to create a String:
+
+Using String Literal
+
+String name = "Java";
+
+Using new Keyword
+
+String name = new String("Java");
+3️⃣ Important String Methods
+
+The mentor explained commonly used built-in methods:
+
+length() → Returns the length of the string
+
+charAt(index) → Returns character at specified index
+
+equals() → Compares two strings
+
+substring() → Extracts a part of the string
+
+toUpperCase() → Converts string to uppercase
+
+These methods help in manipulating and processing textual data efficiently.
+
+4️⃣ String Pool and Memory Management
+
+Strings created using literals are stored in the String Pool.
+
+The String Pool avoids duplicate objects to save memory.
+
+Strings created using new keyword are stored in heap memory.
+
+If two literals have the same value, they refer to the same memory location.
+
+🎯 Learning Outcomes
+
+Understood how strings are created and stored in memory.
+
+Learned important built-in string methods.
+
+Gained clarity on immutability of strings.
+
+Understood the concept of the String Pool and memory optimization.
