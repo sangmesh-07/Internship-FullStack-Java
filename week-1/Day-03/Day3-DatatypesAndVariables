@@ -1,0 +1,90 @@
+📅 Day 3 – Data Types and Variables
+
+Full Stack Web Development with Java Internship
+
+Today’s session focused on the fundamental concepts of Java, particularly data types and variables, which form the foundation of programming.
+
+🔹 Topics Covered
+1️⃣ Data Types in Java
+
+Java data types are classified into two categories:
+
+✅ Primitive Data Types
+
+These store simple values directly.
+
+byte
+
+short
+
+int
+
+long
+
+float
+
+double
+
+char
+
+boolean
+
+Each primitive type has a fixed memory size and is used for efficient data storage.
+
+✅ Non-Primitive Data Types
+
+These store references to objects.
+
+String
+
+Arrays
+
+Classes
+
+Interfaces
+
+Non-primitive types allow storing complex and structured data.
+
+2️⃣ Variables
+
+A variable is a named container used to store data values.
+
+🔹 Syntax:
+dataType variableName = value;
+🔹 Example Program:
+public class DataTypesExample {
+    public static void main(String[] args) {
+        int age = 21;
+        double salary = 25000.50;
+        char grade = 'A';
+        boolean isActive = true;
+        String name = "Sangmesh";
+
+        System.out.println("Name: " + name);
+        System.out.println("Age: " + age);
+        System.out.println("Salary: " + salary);
+        System.out.println("Grade: " + grade);
+        System.out.println("Active: " + isActive);
+    }
+}
+🔹 Naming Conventions in Java
+
+To maintain clean and readable code, the following conventions are used:
+
+Variables & Methods: camelCase → studentName, calculateTotal()
+
+Class Names: PascalCase → StudentDetails
+
+Constants: UPPER_CASE → MAX_VALUE
+
+Package Names: lowercase → com.company.project
+
+🎯 Learning Outcomes
+
+Understood the difference between primitive and non-primitive data types.
+
+Learned how to declare and initialize variables correctly.
+
+Gained knowledge of Java naming conventions and coding standards.
+
+Strengthened foundational concepts for writing efficient Java programs.
