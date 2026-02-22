@@ -1,4 +1,6 @@
+
 public class JaggedArrayExample {
+
     public static void main(String[] args) {
 
         // Declaration of jagged array
