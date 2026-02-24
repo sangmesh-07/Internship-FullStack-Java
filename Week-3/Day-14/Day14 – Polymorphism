@@ -1,0 +1,58 @@
+📅 Day 14 – Polymorphism (Compile-Time & Runtime)
+
+Full Stack Web Development with Java Internship
+
+Today’s session focused on the concept of Polymorphism in Java, one of the core principles of Object-Oriented Programming (OOP). The mentor explained both compile-time polymorphism and runtime polymorphism with practical examples.
+
+🔹 Topics Covered
+1️⃣ Compile-Time Polymorphism (Method Overloading)
+
+Compile-time polymorphism is achieved through method overloading.
+
+Key points discussed:
+
+Multiple methods share the same name
+
+Methods differ in number, type, or order of parameters
+
+Decision is made at compile time
+
+Also called Static Binding
+
+Understood how overloading improves flexibility and readability in programs.
+
+2️⃣ Runtime Polymorphism (Method Overriding)
+
+Runtime polymorphism is achieved through method overriding.
+
+Key points discussed:
+
+A subclass provides its own implementation of a method defined in the parent class
+
+Requires inheritance (extends)
+
+Method signature must be the same
+
+Decision is made at runtime
+
+Also called Dynamic Binding or Dynamic Method Dispatch
+
+The mentor explained how the JVM decides which method to execute based on the object reference during runtime.
+
+🔹 Dynamic Method Dispatch
+
+Parent class reference can refer to child class object
+
+The overridden method in child class is executed
+
+Demonstrates runtime decision-making
+
+This concept plays a major role in achieving flexibility and extensibility in Java applications.
+
+🔹 Practical Implementation
+
+Practiced writing programs for method overloading.
+
+Implemented method overriding using parent and child classes.
+
+Observed how runtime polymorphism works during execution.
