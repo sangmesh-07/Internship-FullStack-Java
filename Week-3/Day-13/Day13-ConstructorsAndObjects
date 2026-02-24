@@ -1,0 +1,82 @@
+📅 Day 13 – Constructors, Object Lifecycle & Inheritance
+
+Full Stack Web Development with Java Internship
+
+Today’s session focused on understanding Constructors, Object Lifecycle, and Inheritance in Java. These concepts are fundamental to Object-Oriented Programming (OOP).
+
+🔹 Topics Covered
+1️⃣ Constructors in Java
+
+A constructor is a special method used to initialize objects.
+
+Key points discussed:
+
+Constructor name must be same as class name
+
+Constructors do not have a return type
+
+Automatically called when object is created
+
+Used to initialize instance variables
+
+Types of Constructors:
+
+Default Constructor → No parameters
+
+Parameterized Constructor → Accepts parameters
+
+Constructor Overloading → Multiple constructors with different parameter lists
+
+🔹 2️⃣ Object Lifecycle
+
+The mentor explained the complete lifecycle of an object:
+
+Object creation using new keyword
+
+Memory allocation in the heap
+
+Constructor execution
+
+Object usage
+
+Garbage collection when object is no longer referenced
+
+Understood how Java manages memory automatically using Garbage Collector.
+
+🔹 3️⃣ Inheritance
+
+Inheritance allows one class to acquire properties and methods of another class.
+
+Key concepts covered:
+
+Use of extends keyword
+
+Parent class (Super class)
+
+Child class (Sub class)
+
+Code reusability
+
+Method overriding (introduction)
+
+Inheritance helps in building hierarchical relationships and promotes reuse of code.
+
+🔹 Practical Implementation
+
+Wrote programs to implement constructor overloading.
+
+Created simple parent-child class relationships.
+
+Practiced accessing inherited members.
+
+🎯 Learning Outcomes
+
+Understood purpose and types of constructors.
+
+Learned how objects are created and managed in memory.
+
+Gained clarity on object lifecycle in Java.
+
+Understood basic inheritance and class relationships.
+
+Strengthened OOP fundamentals.
