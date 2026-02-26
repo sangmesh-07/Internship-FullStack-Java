@@ -1,0 +1,78 @@
+📅 Day 15 – Abstraction and Interfaces
+
+Full Stack Web Development with Java Internship
+
+Today’s session focused on the concepts of Abstraction and Interfaces in Java, which are important principles of Object-Oriented Programming (OOP).
+
+🔹 Topics Covered
+1️⃣ Abstraction
+
+Abstraction is the process of hiding implementation details and showing only essential features of a class.
+
+The mentor explained:
+
+Use of abstract keyword
+
+Abstract classes
+
+Abstract methods (methods without body)
+
+How child classes provide implementation
+
+Key Points:
+
+An abstract class cannot be instantiated.
+
+It can contain both abstract and non-abstract methods.
+
+Used when classes share common behavior but have different implementations.
+
+2️⃣ Interfaces
+
+An interface defines a contract that implementing classes must follow.
+
+The lecture covered:
+
+Declaration of interface using interface keyword
+
+Methods in interface are implicitly public and abstract
+
+Use of implements keyword
+
+Multiple inheritance using interfaces
+
+Key Points:
+
+A class can implement multiple interfaces.
+
+Interfaces provide full abstraction (before Java 8).
+
+Used to achieve loose coupling and flexibility.
+
+3️⃣ Difference Between Abstract Class and Interface
+
+Abstract class can have constructors; interface cannot.
+
+Abstract class can have both abstract and concrete methods; interface mainly contains abstract methods.
+
+A class can extend only one abstract class but can implement multiple interfaces.
+
+🔹 Practical Implementation
+
+Wrote programs using abstract classes and abstract methods.
+
+Implemented interfaces in classes.
+
+Observed how abstraction improves program structure.
+
+🎯 Learning Outcomes
+
+Understood concept of abstraction in Java.
+
+Learned how abstract classes work.
+
+Gained clarity on interfaces and their purpose.
+
+Understood difference between abstract class and interface.
+
+Strengthened OOP design understanding.
