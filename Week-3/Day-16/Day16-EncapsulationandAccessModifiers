@@ -1,0 +1,74 @@
+📅 Day 16 – Encapsulation and Access Modifiers
+
+Full Stack Web Development with Java Internship
+
+Today’s session focused on the concepts of Encapsulation and Access Modifiers in Java. These concepts are essential for achieving data security and controlled access in Object-Oriented Programming.
+
+🔹 Topics Covered
+1️⃣ Encapsulation
+
+Encapsulation is the process of binding data (variables) and methods together within a class and restricting direct access to the data.
+
+The mentor explained:
+
+Making data members private
+
+Providing controlled access using getter and setter methods
+
+Protecting data from unauthorized modification
+
+Improving data security and maintainability
+
+Key Points:
+
+Data hiding is achieved using private variables.
+
+Public getter methods → Used to retrieve data.
+
+Public setter methods → Used to update data.
+
+Ensures controlled access to class members.
+
+2️⃣ Access Modifiers in Java
+
+Access modifiers define the visibility and accessibility of classes, variables, and methods.
+
+The following modifiers were discussed:
+
+✅ public
+
+Accessible from anywhere (within and outside package).
+
+✅ private
+
+Accessible only within the same class.
+
+✅ protected
+
+Accessible within the same package and in subclasses (even in different packages).
+
+✅ default (no modifier)
+
+Accessible only within the same package.
+
+The session clarified how access modifiers help in implementing encapsulation effectively.
+
+🔹 Practical Implementation
+
+Wrote programs using private variables and public getter/setter methods.
+
+Tested accessibility rules of different access modifiers.
+
+Understood how encapsulation improves code security and structure.
+
+🎯 Learning Outcomes
+
+Understood the concept of encapsulation.
+
+Learned how to implement getters and setters.
+
+Gained clarity on different access modifiers and their scope.
+
+Improved understanding of data security in Java.
+
+Strengthened OOP fundamentals.
