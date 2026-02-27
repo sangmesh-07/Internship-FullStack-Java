@@ -1,0 +1,76 @@
+👇
+
+📅 Day 17 – Exception Handling in Java
+
+Full Stack Web Development with Java Internship
+
+Today’s session focused on Exception Handling in Java and its importance in building reliable and robust applications. The mentor explained how runtime errors can interrupt program execution and how exceptions help in handling such situations gracefully.
+
+🔹 Topics Covered
+1️⃣ Introduction to Exceptions
+
+An exception is an unwanted event that occurs during program execution.
+
+Exceptions disrupt the normal flow of the program.
+
+Java provides a mechanism to handle errors using exception handling constructs.
+
+2️⃣ Exception Handling Keywords
+
+The structure of exception handling includes:
+
+✅ try
+
+Contains code that may cause an exception.
+
+✅ catch
+
+Handles the exception thrown in the try block.
+
+✅ finally
+
+Executes regardless of whether an exception occurs or not.
+
+✅ throw
+
+Used to explicitly throw an exception.
+
+✅ throws
+
+Declares exceptions that a method may generate.
+
+3️⃣ Types of Exceptions
+
+The session covered two main categories:
+
+🔹 Checked Exceptions
+
+Checked at compile time.
+
+Example: IOException, SQLException.
+
+🔹 Unchecked Exceptions
+
+Occur at runtime.
+
+Example: ArithmeticException, NullPointerException.
+
+4️⃣ Practical Implementation
+
+Wrote programs to handle ArithmeticException (e.g., division by zero).
+
+Practiced handling input-related exceptions.
+
+Observed how try-catch blocks prevent program crashes.
+
+🎯 Learning Outcomes
+
+Understood the importance of exception handling.
+
+Learned structure of try-catch-finally blocks.
+
+Gained clarity on checked and unchecked exceptions.
+
+Improved ability to write error-resistant programs.
+
+Strengthened debugging and problem-solving skills.
