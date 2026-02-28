@@ -28,3 +28,12 @@ public class ArrayListExample {
         }
     }
 }
+
+
+
+
+/*output
+ArrayList: [Java, Python, Java]ArrayList: [Java, Python, Java]
+Contains Java? true
+Java
+Java*/
