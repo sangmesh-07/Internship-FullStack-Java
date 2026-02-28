@@ -1,0 +1,80 @@
+📅 Day 18 – Collections Framework (List & Set)
+
+Full Stack Web Development with Java Internship
+
+Today’s session focused on the Collections Framework in Java, particularly the List and Set interfaces. The mentor explained how collections provide dynamic data storage, overcoming the size limitations of arrays.
+
+🔹 Topics Covered
+1️⃣ Introduction to Collections Framework
+
+Collections are used to store and manipulate groups of objects.
+
+Unlike arrays, collections are dynamic in size.
+
+Located in java.util package.
+
+🔹 2️⃣ List Interface
+
+The List interface allows ordered collection of elements.
+
+Implementations Discussed:
+✅ ArrayList
+
+Maintains insertion order
+
+Allows duplicate elements
+
+Fast for retrieval
+
+Slower for insertion/deletion in middle
+
+✅ LinkedList
+
+Maintains insertion order
+
+Allows duplicates
+
+Faster insertion and deletion
+
+Slower random access
+
+🔹 3️⃣ Set Interface
+
+The Set interface stores unique elements (no duplicates allowed).
+
+Implementation Discussed:
+✅ HashSet
+
+Does not maintain insertion order
+
+Automatically removes duplicate elements
+
+Faster performance for add/remove operations
+
+🔹 Practical Implementation
+
+Implemented programs using ArrayList to store and retrieve elements.
+
+Used HashSet to observe automatic removal of duplicate values.
+
+Practiced basic operations:
+
+add()
+
+remove()
+
+contains()
+
+Iteration using loop
+
+🎯 Learning Outcomes
+
+Understood difference between arrays and collections.
+
+Learned features of List and Set interfaces.
+
+Gained clarity on ArrayList, LinkedList, and HashSet.
+
+Practiced common collection operations.
+
+Strengthened understanding of dynamic data handling.
