@@ -1,0 +1,63 @@
+📅 Day 19 – Pattern Printing Programs
+
+Full Stack Web Development with Java Internship
+
+Today’s session focused on pattern printing programs in Java. The mentor explained how nested loops are used to generate various types of patterns such as star patterns, number patterns, and pyramid structures.
+
+🔹 Topics Covered
+1️⃣ Nested Loops Concept
+
+Using one loop inside another loop
+
+Outer loop → Controls number of rows
+
+Inner loop → Controls number of columns
+
+Importance of loop conditions in pattern formation
+
+2️⃣ Types of Patterns Discussed
+✅ Star Patterns
+
+Right-angled triangle
+
+Inverted triangle
+
+Pyramid structure
+
+✅ Number Patterns
+
+Increasing number pattern
+
+Decreasing number pattern
+
+Sequential number patterns
+
+🔹 Key Concepts Learned
+
+How row and column logic works in pattern problems
+
+Understanding relationship between outer and inner loops
+
+Controlling spacing and formatting
+
+Step-by-step execution of nested loops
+
+🔹 Practical Implementation
+
+Wrote programs for right-angled star patterns
+
+Implemented inverted triangle patterns
+
+Practiced number-based pattern printing
+
+Improved understanding of loop flow and execution
+
+🎯 Learning Outcomes
+
+Strengthened understanding of nested loops
+
+Improved logical thinking and problem-solving skills
+
+Learned how to control rows and columns effectively
+
+Gained confidence in solving pattern-based coding problems
