@@ -1,0 +1,87 @@
+📅 Day 20 – Collections Framework (Map & Iterator)
+
+Full Stack Web Development with Java Internship
+
+Today’s session focused on advanced concepts of the Collections Framework, specifically the Map interface and the working of the Iterator interface.
+
+🔹 Topics Covered
+1️⃣ Map Interface
+
+The Map interface stores data in key–value pairs.
+
+Key points discussed:
+
+Each key must be unique
+
+Values can be duplicated
+
+Stored in java.util package
+
+Faster data retrieval using hashing mechanism
+
+2️⃣ Hashing Concept
+
+The mentor explained how HashMap internally uses hashing to store and retrieve elements efficiently.
+
+Hash code generation
+
+Bucket storage mechanism
+
+Faster lookup performance
+
+3️⃣ Map Implementations
+✅ HashMap
+
+Does not maintain insertion order
+
+Allows one null key
+
+Fast performance
+
+✅ LinkedHashMap
+
+Maintains insertion order
+
+Slightly slower than HashMap
+
+✅ TreeMap
+
+Stores keys in sorted order
+
+Does not allow null keys
+
+Slower compared to HashMap
+
+🔹 4️⃣ Iterator Interface
+
+The session covered the Iterator interface used to traverse collections.
+
+Important methods:
+
+hasNext() → Checks if more elements are present
+
+next() → Returns the next element
+
+remove() → Removes the current element
+
+🔹 Fail-Fast Behavior
+
+Iterator throws ConcurrentModificationException
+
+Happens when collection is modified while iterating
+
+Ensures safe traversal of data
+
+🔹 Practical Implementation
+
+Inserted key–value pairs into a HashMap
+
+Retrieved values using keys
+
+Traversed map using:
+
+Iterator
+
+Enhanced for-loop
+
+Observed ordering behavior in different Map implementations
