@@ -1,0 +1,50 @@
+📅 Day 22 – File Handling in Java
+
+Full Stack Web Development with Java Internship
+
+Today’s session focused on File Handling in Java and how Java programs interact with files to store and retrieve data. The mentor explained how file operations allow applications to maintain persistent data outside the program.
+
+🔹 Topics Covered
+1️⃣ Introduction to File Handling
+
+File handling allows programs to create, read, write, and delete files.
+
+Java provides file handling support through the java.io package.
+
+Files are commonly used for storing application data permanently.
+
+2️⃣ File Handling Classes
+
+The mentor introduced several classes used for file operations:
+
+File → Used to create and manage file objects
+
+FileReader → Reads character data from a file
+
+FileWriter → Writes character data into a file
+
+BufferedReader → Efficient reading of text files
+
+BufferedWriter → Efficient writing of text files
+
+3️⃣ File Operations Demonstrated
+
+Creating a new file
+
+Writing data into a file
+
+Reading data from a file
+
+Deleting a file
+
+These operations help applications manage data storage effectively.
+
+🔹 Practical Implementation
+
+Created programs to generate a file using the File class.
+
+Implemented file writing using FileWriter.
+
+Read stored data using file reading classes.
+
+Observed how Java handles file-based data storage.
