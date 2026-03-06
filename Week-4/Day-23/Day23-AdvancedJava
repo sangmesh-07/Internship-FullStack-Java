@@ -1,0 +1,58 @@
+Day 23 – Introduction to Advanced Java & Web Concepts
+
+Full Stack Web Development with Java Internship
+
+Today’s session introduced the concept of Advanced Java and its role in developing web-based applications. The mentor explained how Advanced Java technologies extend the capabilities of Core Java to build dynamic and interactive web systems.
+
+🔹 Topics Covered
+1️⃣ Introduction to Advanced Java
+
+Advanced Java is used for web and enterprise application development.
+
+It builds on the concepts of Core Java and provides technologies for creating dynamic web applications.
+
+Common technologies include Servlets, JSP, and application servers.
+
+2️⃣ Client–Server Architecture
+
+The mentor explained how web applications work using client–server architecture.
+
+Client → Web browser used by the user
+
+Server → System that processes requests and sends responses
+
+Communication happens through the internet using HTTP protocol.
+
+3️⃣ HTTP Protocol
+
+HTTP stands for HyperText Transfer Protocol.
+
+It is used for communication between client and server.
+
+A client sends an HTTP request, and the server sends an HTTP response.
+
+4️⃣ Web Browsers and Web Servers
+
+Web Browser → Used to access web pages (Chrome, Firefox, Edge).
+
+Web Server → Hosts web applications and handles client requests.
+
+Example servers include Apache Tomcat.
+
+5️⃣ Web Technologies in Java
+
+The mentor introduced important web technologies:
+
+Servlets → Java programs that handle HTTP requests and responses.
+
+JSP (Java Server Pages) → Used to create dynamic web pages.
+
+Application Servers → Platforms used to deploy and run web applications.
+
+🔹 Practical Exploration
+
+Explored simple examples of web application flow.
+
+Understood how Java processes client requests.
+
+Observed how responses are generated and sent back to the browser.
