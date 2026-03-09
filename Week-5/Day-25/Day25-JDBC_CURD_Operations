@@ -1,0 +1,50 @@
+📅 Day 25 – JDBC CRUD Operations
+
+Full Stack Web Development with Java Internship
+
+Today’s session focused on performing CRUD operations using JDBC in Java. The mentor explained how Java applications interact with databases to Create, Read, Update, and Delete records.
+
+🔹 Topics Covered
+1️⃣ CRUD Operations in JDBC
+
+CRUD represents the four basic database operations:
+
+Create → Insert new records into a database table
+
+Read → Retrieve data from the database
+
+Update → Modify existing records
+
+Delete → Remove records from the database
+
+2️⃣ JDBC Components Used
+
+The mentor demonstrated the use of key JDBC components:
+
+Connection → Establishes connection between Java application and database
+
+PreparedStatement → Executes SQL queries securely and efficiently
+
+ResultSet → Retrieves and processes query results from the database
+
+3️⃣ SQL Query Execution
+
+Writing SQL queries inside Java programs
+
+Executing queries using PreparedStatement
+
+Retrieving and displaying data using ResultSet
+
+🔹 Practical Implementation
+
+During the practical session, I implemented programs to:
+
+Insert new records into a database table
+
+Retrieve stored data from the database
+
+Update existing entries in the table
+
+Delete records from the database
+
+These exercises helped me understand how database operations are handled within Java applications.
