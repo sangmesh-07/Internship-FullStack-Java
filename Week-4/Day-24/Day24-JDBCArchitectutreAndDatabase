@@ -1,0 +1,58 @@
+📅 Day 24 – JDBC Architecture & Database Connectivity
+
+Full Stack Web Development with Java Internship
+
+Today’s session focused on understanding JDBC Architecture and how Java applications connect to relational databases. The mentor explained how JDBC enables communication between Java programs and database systems.
+
+🔹 Topics Covered
+1️⃣ Introduction to JDBC
+
+JDBC stands for Java Database Connectivity.
+
+It allows Java applications to connect, query, and update relational databases.
+
+JDBC provides a standard API for interacting with different database systems.
+
+2️⃣ JDBC Architecture Components
+
+The mentor explained the important components of JDBC:
+
+JDBC Driver → Connects Java applications with the database.
+
+DriverManager → Manages JDBC drivers and establishes connections.
+
+Connection → Represents the session between Java program and database.
+
+Statement / PreparedStatement → Executes SQL queries.
+
+ResultSet → Stores the results returned from database queries.
+
+3️⃣ Database Connectivity Steps
+
+The process of connecting Java to a database includes:
+
+Load the JDBC driver
+
+Establish connection using DriverManager
+
+Create a Statement or PreparedStatement
+
+Execute SQL queries
+
+Retrieve results using ResultSet
+
+Close the connection
+
+🔹 Practical Implementation
+
+During the practice session, I worked on programs to:
+
+Establish database connection using JDBC
+
+Execute SQL queries
+
+Retrieve data from database tables
+
+Display results using Java programs
+
+These exercises helped me understand how Java applications interact with databases to store and access information.
