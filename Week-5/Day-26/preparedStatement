@@ -1,0 +1,50 @@
+📅 Day 26 – PreparedStatement & Batch Processing in JDBC
+
+Full Stack Web Development with Java Internship
+
+Today’s session focused on the use of PreparedStatement and Batch Processing in JDBC. The mentor explained how PreparedStatement helps in executing parameterized SQL queries efficiently and improves performance compared to regular Statement.
+
+🔹 Topics Covered
+1️⃣ PreparedStatement
+
+PreparedStatement is used to execute parameterized SQL queries.
+
+Key advantages discussed:
+
+Improves performance by allowing query reuse
+
+Prevents SQL Injection attacks
+
+Supports dynamic input parameters
+
+More secure and efficient than Statement
+
+2️⃣ Batch Processing
+
+Batch processing allows multiple SQL statements to be executed together as a single batch.
+
+Benefits:
+
+Improves performance for large database operations
+
+Reduces database communication overhead
+
+Efficient for inserting or updating multiple records
+
+Common methods used:
+
+addBatch() → Adds SQL statement to batch
+
+executeBatch() → Executes all batch queries together
+
+🔹 Practical Implementation
+
+During the practice session, I implemented programs to:
+
+Execute parameterized SQL queries using PreparedStatement
+
+Insert multiple records into a database table
+
+Use batch processing to execute multiple insert operations efficiently
+
+This helped me understand how JDBC handles large database operations with improved performance.
