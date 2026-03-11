@@ -1,0 +1,61 @@
+📅 Day 27 – Transactions, Commit & Rollback in JDBC
+
+Full Stack Web Development with Java Internship
+
+Today’s session focused on database transaction management in JDBC, particularly the concepts of commit and rollback. The mentor explained how transactions help maintain data consistency and integrity when multiple database operations are performed together.
+
+🔹 Topics Covered
+1️⃣ Database Transactions
+
+A transaction is a group of database operations executed as a single logical unit of work.
+
+Key points discussed:
+
+Ensures data consistency
+
+All operations succeed or none are applied
+
+Prevents partial updates in the database
+
+2️⃣ Commit Operation
+
+commit() permanently saves changes to the database.
+
+Used when all SQL operations in a transaction execute successfully.
+
+After commit, changes cannot be undone.
+
+Example:
+
+connection.commit();
+3️⃣ Rollback Operation
+
+rollback() reverses changes if an error occurs during transaction execution.
+
+Ensures the database returns to its previous consistent state.
+
+Example:
+
+connection.rollback();
+4️⃣ Auto-Commit Mode
+
+By default, JDBC runs in auto-commit mode.
+
+Each SQL statement is automatically committed.
+
+To manage transactions manually:
+
+connection.setAutoCommit(false);
+🔹 Practical Implementation
+
+During the practical session, I implemented programs that:
+
+Executed multiple SQL statements within a transaction
+
+Disabled auto-commit mode
+
+Used commit() to save successful operations
+
+Used rollback() to revert changes when an exception occurred
+
+This helped me understand how transaction management maintains database integrity and reliability.
