@@ -1,0 +1,60 @@
+📅 Day 28 – DAO Pattern & Layered Architecture
+
+Full Stack Web Development with Java Internship
+
+Today’s session introduced the DAO (Data Access Object) pattern and the concept of layered architecture in Java applications. The mentor explained how these design approaches help organize large applications and improve code maintainability.
+
+🔹 Topics Covered
+1️⃣ DAO (Data Access Object) Pattern
+
+The DAO pattern is used to separate database access logic from business logic in an application.
+
+Key advantages discussed:
+
+Improves code organization
+
+Makes the application easier to maintain
+
+Allows easier modification of database logic
+
+Promotes reusability of data access methods
+
+DAO classes are responsible for performing CRUD operations on the database.
+
+2️⃣ Layered Architecture
+
+The mentor explained how applications are structured using multiple layers to separate responsibilities.
+
+Common layers include:
+
+✅ Presentation Layer
+
+Handles user interaction
+
+Displays information to users
+
+Example: UI, web pages, or controllers
+
+✅ Business Logic Layer
+
+Contains application logic and rules
+
+Processes user requests and performs calculations
+
+✅ Data Access Layer (DAO Layer)
+
+Communicates directly with the database
+
+Performs data operations such as insert, update, delete, and retrieve
+
+🔹 Practical Implementation
+
+During the practice session, I explored simple examples that demonstrated:
+
+Creating DAO classes for database operations
+
+Separating database logic from business logic
+
+Interacting with the database through DAO methods
+
+This helped me understand how large-scale Java applications are structured for better scalability and maintainability.
