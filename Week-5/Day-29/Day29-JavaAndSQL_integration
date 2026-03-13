@@ -1,0 +1,54 @@
+📅 Day 29 – Java Integration with MySQL Database
+
+Full Stack Web Development with Java Internship
+
+Today’s session focused on integrating Java applications with the MySQL database using JDBC. The mentor explained how Java programs establish a connection with a MySQL database to perform various data operations.
+
+🔹 Topics Covered
+1️⃣ Introduction to MySQL Connectivity
+
+Java applications interact with databases using JDBC drivers.
+
+MySQL is a widely used relational database management system (RDBMS).
+
+JDBC enables communication between Java programs and MySQL databases.
+
+2️⃣ Steps for Java–MySQL Connection
+
+The mentor demonstrated the steps involved in connecting Java with MySQL:
+
+Load the JDBC driver
+
+Establish connection using DriverManager
+
+Create a Statement or PreparedStatement
+
+Execute SQL queries
+
+Retrieve results using ResultSet
+
+Close the database connection
+
+3️⃣ JDBC Components Used
+
+DriverManager → Manages database drivers and establishes connection
+
+Connection → Represents connection with database
+
+Statement / PreparedStatement → Executes SQL queries
+
+ResultSet → Retrieves data returned by SQL queries
+
+🔹 Practical Implementation
+
+During the practice session, I implemented sample programs to:
+
+Connect a Java application with a MySQL database
+
+Insert records into database tables
+
+Retrieve stored data using SQL queries
+
+Display database results using Java programs
+
+This helped me understand how backend applications interact with databases in real-world systems.
