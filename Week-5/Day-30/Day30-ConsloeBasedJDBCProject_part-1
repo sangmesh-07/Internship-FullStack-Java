@@ -1,0 +1,38 @@
+📅 Day 30 – Console-Based JDBC Mini Project (Part 1)
+
+Full Stack Web Development with Java Internship
+
+Today’s session focused on starting a console-based mini project using JDBC. The mentor explained the objective of the project and how a Java console application can interact with a database to manage records.
+
+🔹 Topics Covered
+1️⃣ Mini Project Introduction
+
+The project aims to build a console-based database management system using Java and JDBC.
+
+The application will allow users to interact with the database through the command line interface.
+
+It will perform database operations such as inserting, retrieving, updating, and deleting records.
+
+2️⃣ Project Structure
+
+The mentor explained the basic structure required for the project:
+
+Main Class → Handles user interaction and menu options
+
+Database Connection Class → Establishes connection with the database
+
+DAO Classes → Perform database operations
+
+This structure helps maintain a clean and organized application design.
+
+3️⃣ Database Connectivity Setup
+
+During the practical session, I implemented the initial code to:
+
+Establish a connection between the Java application and the database
+
+Verify that the connection works correctly
+
+Prepare the project for further database operations
+
+This connection setup will be used later to perform various database operations through the console interface.
