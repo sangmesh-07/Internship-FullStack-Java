@@ -1,0 +1,42 @@
+📅 Day 31 – Console-Based JDBC Mini Project (Part 2)
+
+Full Stack Web Development with Java Internship
+
+Today’s session continued the development of the console-based JDBC mini project. The mentor guided us in implementing the core functionalities required for interacting with the database through the console application.
+
+🔹 Topics Covered
+1️⃣ Implementing Database Operations
+
+The focus of the session was on writing code to perform basic database operations within the project.
+
+Operations implemented:
+
+Insert Records → Adding new entries into the database table
+
+Display Records → Retrieving and showing stored data from the database
+
+These operations allowed the console application to interact directly with the database.
+
+2️⃣ Integrating SQL Queries with Java
+
+The mentor demonstrated how SQL queries can be integrated into the Java application using JDBC components such as:
+
+Connection → Establish database connection
+
+PreparedStatement → Execute SQL queries
+
+ResultSet → Retrieve and display database results
+
+🔹 Practical Implementation
+
+During the practice session, I worked on:
+
+Integrating database queries into the console-based project
+
+Testing the application by inserting records into the database
+
+Displaying stored data through the console interface
+
+Verifying that database connectivity was working correctly
+
+This step improved the functionality of the application and ensured smooth interaction between the Java program and the database.
