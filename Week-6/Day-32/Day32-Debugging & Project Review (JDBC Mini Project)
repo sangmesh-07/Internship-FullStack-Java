@@ -1,0 +1,52 @@
+📅 Day 32 – Debugging & Project Review (JDBC Mini Project)
+
+Full Stack Web Development with Java Internship
+
+Today’s session focused on reviewing and debugging the console-based JDBC mini project. The mentor analyzed the overall project structure and discussed common issues related to database connectivity, query execution, and code organization.
+
+🔹 Topics Covered
+1️⃣ Project Review
+
+Reviewed the structure of the console-based JDBC project
+
+Checked organization of classes such as main class, DAO, and database connection
+
+Identified areas for improvement in code readability and structure
+
+2️⃣ Common Issues Identified
+
+The mentor highlighted common errors such as:
+
+Incorrect database connection setup
+
+SQL query mistakes
+
+Improper handling of user input
+
+Logical errors in program flow
+
+3️⃣ Debugging Techniques
+
+Different debugging techniques were discussed:
+
+Using print statements to trace execution flow
+
+Checking SQL queries separately in database
+
+Verifying database connection status
+
+Handling exceptions properly using try-catch blocks
+
+🔹 Practical Implementation
+
+During the practice session, I:
+
+Tested the project by running different operations
+
+Debugged issues related to SQL queries and input handling
+
+Fixed errors in program logic and execution flow
+
+Ensured proper working of database connectivity
+
+This improved the overall functionality, reliability, and performance of the application.
