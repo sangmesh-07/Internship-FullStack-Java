@@ -1,0 +1,50 @@
+Day 33 – Introduction to HTML
+
+Full Stack Web Development with Java Internship
+
+Today’s session focused on the fundamentals of HTML (HyperText Markup Language) and how web pages are structured. The mentor explained the basic layout of an HTML document and how different elements are used to display content on a webpage.
+
+🔹 Topics Covered
+1️⃣ Introduction to HTML
+
+HTML is used to create the structure of web pages.
+
+It consists of elements represented by tags.
+
+Web browsers interpret HTML to display content visually.
+
+2️⃣ Structure of an HTML Document
+
+The basic structure of an HTML page includes:
+
+<html> → Root element
+
+<head> → Contains metadata (title, links, etc.)
+
+<body> → Contains visible content
+
+3️⃣ Common HTML Tags
+
+The mentor introduced basic tags:
+
+<h1> to <h6> → Headings
+
+<p> → Paragraph
+
+<a> → Anchor (links)
+
+<img> → Images
+
+These tags help organize and display content properly on a webpage.
+
+🔹 Practical Implementation
+
+During practice, I:
+
+Created simple HTML pages
+
+Used different tags to display text and images
+
+Added links using anchor tags
+
+Observed how browsers render HTML content
