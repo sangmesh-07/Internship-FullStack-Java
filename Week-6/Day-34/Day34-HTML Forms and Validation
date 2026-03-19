@@ -1,0 +1,60 @@
+📅 Day 34 – HTML Forms & Validation
+
+Full Stack Web Development with Java Internship
+
+Today’s session focused on designing forms in HTML and applying validation to control user input. The mentor explained how forms are used to collect different types of data from users.
+
+🔹 Topics Covered
+1️⃣ HTML Forms
+
+The <form> tag is used to create forms in HTML.
+
+It contains input elements to collect user data.
+
+Important attributes:
+
+action → Specifies where to send form data
+
+method → Defines HTTP method (GET/POST)
+
+2️⃣ Form Elements
+
+The mentor introduced various input elements:
+
+<input type="text"> → Text field
+
+<input type="password"> → Password field
+
+<input type="radio"> → Select one option
+
+<input type="checkbox"> → Select multiple options
+
+<select> → Dropdown menu
+
+<textarea> → Multi-line input
+
+3️⃣ Form Validation
+
+Validation ensures that users enter correct and required data.
+
+Common validation attributes:
+
+required → Field must be filled
+
+pattern → Defines input format
+
+type="email" → Valid email format
+
+type="number" → Only numeric input
+
+🔹 Practical Implementation
+
+During the practice session, I:
+
+Created HTML forms with different input elements
+
+Applied validation using attributes like required and pattern
+
+Tested form behavior with valid and invalid inputs
+
+Understood how browsers restrict incorrect data submission
