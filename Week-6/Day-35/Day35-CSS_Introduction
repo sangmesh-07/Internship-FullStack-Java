@@ -1,0 +1,60 @@
+📅 Day 35 – Introduction to CSS
+
+Full Stack Web Development with Java Internship
+
+Today’s session introduced CSS (Cascading Style Sheets) and its role in enhancing the design and presentation of web pages. The mentor explained how CSS is used to style HTML elements and improve the visual appearance of websites.
+
+🔹 Topics Covered
+1️⃣ Introduction to CSS
+
+CSS is used to style and format HTML elements.
+
+It controls layout, colors, fonts, spacing, and overall design.
+
+Helps separate content (HTML) from presentation (CSS).
+
+2️⃣ Types of CSS
+
+The mentor explained three ways to apply CSS:
+
+✅ Inline CSS
+
+Applied directly inside HTML tags
+
+Example: <p style="color:red;">Text</p>
+
+✅ Internal CSS
+
+Defined inside <style> tag within <head> section
+
+✅ External CSS
+
+Written in a separate .css file
+
+Linked using <link> tag
+
+Best practice for large projects
+
+3️⃣ Basic CSS Concepts
+
+Selectors → Target HTML elements
+
+Color → color, background-color
+
+Font Styling → font-size, font-family
+
+Spacing → margin, padding
+
+Borders → border, border-radius
+
+🔹 Practical Implementation
+
+During practice, I:
+
+Styled HTML pages using different CSS methods
+
+Applied colors, fonts, and spacing
+
+Modified layout and appearance of elements
+
+Observed how CSS changes the look and feel of a webpage
