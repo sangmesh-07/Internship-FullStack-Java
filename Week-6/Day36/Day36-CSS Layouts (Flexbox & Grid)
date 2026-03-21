@@ -1,0 +1,34 @@
+📅 Day 36 – CSS Layouts (Flexbox & Grid)
+
+Full Stack Web Development with Java Internship
+
+Today’s session focused on advanced layout techniques in CSS using Flexbox and Grid systems. The mentor explained how these tools help in creating responsive and well-structured web layouts.
+
+🔹 Topics Covered
+1️⃣ Flexbox (Flexible Box Layout)
+Used to design layouts in one dimension (row or column)
+Helps align and distribute space efficiently
+Key Properties:
+display: flex
+flex-direction → row / column
+justify-content → horizontal alignment
+align-items → vertical alignment
+gap → spacing between elements
+2️⃣ CSS Grid
+Used to design layouts in two dimensions (rows and columns)
+Provides more control over complex layouts
+Key Properties:
+display: grid
+grid-template-columns
+grid-template-rows
+gap
+grid-column, grid-row
+🔹 Practical Implementation
+
+During the hands-on session, I:
+
+Created layouts using Flexbox
+Aligned items horizontally and vertically
+Designed structured layouts using Grid
+Practiced spacing and positioning elements
+Built responsive page layouts
