@@ -1,0 +1,32 @@
+📅 Day 39 – JavaScript Events & Conditional Statements
+
+Full Stack Web Development with Java Internship
+
+Today’s session focused on JavaScript events and conditional statements, which are essential for adding dynamic behavior to web pages.
+
+🔹 Topics Covered
+1️⃣ JavaScript Events
+Events are actions performed by users (click, change, submit)
+Used to trigger JavaScript functions
+Event handling using addEventListener()
+
+Common events:
+
+click
+change
+submit
+2️⃣ Conditional Statements
+
+Used to control program flow based on conditions:
+
+if
+if-else
+switch
+
+Helps in making decisions in programs based on user input.
+
+🔹 Practical Work
+Implemented button click events
+Used event listeners to trigger functions
+Applied conditional logic to display different outputs
+Tested user interaction-based programs
