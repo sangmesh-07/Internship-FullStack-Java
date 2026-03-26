@@ -1,0 +1,29 @@
+📅 Day 40 – DOM Manipulation in JavaScript
+
+Full Stack Web Development with Java Internship
+
+Today’s session focused on DOM (Document Object Model) Manipulation in JavaScript. The mentor explained how the DOM represents the structure of an HTML document and how JavaScript can dynamically access and modify elements.
+
+🔹 Topics Covered
+1️⃣ Introduction to DOM
+DOM represents the HTML document as a tree structure
+Allows JavaScript to access and modify webpage elements
+Enables dynamic updates without reloading the page
+
+2️⃣ DOM Selection Methods
+getElementById() → Select element by ID
+getElementsByClassName() → Select elements by class
+querySelector() → Select first matching element
+querySelectorAll() → Select all matching elements
+
+3️⃣ DOM Manipulation
+Changing text content → innerText, innerHTML
+Modifying styles → style.color, style.backgroundColor
+Handling user interactions
+Updating elements dynamically
+
+🔹 Practical Work
+Accessed HTML elements using DOM methods
+Modified text and styles dynamically
+Implemented user interaction using JavaScript
+Observed real-time changes without page reload
