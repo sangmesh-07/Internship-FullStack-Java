@@ -1,0 +1,37 @@
+📅 Day 41 – ES6 Features (Arrow Functions & Promises)
+
+Full Stack Web Development with Java Internship
+
+Today’s session focused on modern JavaScript (ES6 features), specifically arrow functions and promises, which improve code readability and handle asynchronous operations efficiently.
+
+🔹 Topics Covered
+1️⃣ Arrow Functions
+Short and concise way to write functions
+Uses => syntax
+No need for function keyword
+
+🔹 Syntax:
+const add = (a, b) => {
+    return a + b;
+};
+
+Key Points:
+Cleaner and shorter syntax
+Implicit return for single expressions
+Does not have its own this
+2️⃣ Promises
+Used to handle asynchronous operations
+Helps avoid callback hell
+Represents a future value
+Promise States:
+Pending → Initial state
+Resolved (Fulfilled) → Operation successful
+Rejected → Operation failed
+3️⃣ Handling Promises
+.then() → Handles success
+.catch() → Handles errors
+🔹 Practical Work
+Created arrow functions for different tasks
+Implemented promise-based examples
+Observed asynchronous execution flow
+Tested success and error handling
