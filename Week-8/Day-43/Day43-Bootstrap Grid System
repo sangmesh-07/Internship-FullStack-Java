@@ -1,0 +1,38 @@
+📅 Day 43 – Bootstrap Grid System
+
+Full Stack Web Development with Java Internship
+
+Today’s session focused on the Bootstrap Grid System and how it is used to create responsive layouts efficiently. The mentor explained how Bootstrap simplifies layout design using a 12-column grid structure.
+
+🔹 Topics Covered
+1️⃣ Bootstrap Grid System
+Bootstrap uses a 12-column layout system
+Helps in creating responsive web pages
+Layout is divided using:
+container → Main wrapper
+row → Horizontal group of columns
+col → Individual columns
+2️⃣ Grid Classes
+col- → For extra small devices
+col-sm- → Small devices
+col-md- → Medium devices
+col-lg- → Large devices
+col-xl- → Extra large devices
+3️⃣ Breakpoints
+
+Bootstrap uses breakpoints to adjust layouts for different screen sizes:
+
+Mobile
+Tablet
+Desktop
+
+This ensures content adapts properly across devices.
+
+🔹 Practical Work
+
+During the practice session, I:
+
+Created layouts using Bootstrap grid system
+Used different column sizes (col-md-6, col-lg-4, etc.)
+Tested layouts on different screen sizes
+Built responsive page structures
