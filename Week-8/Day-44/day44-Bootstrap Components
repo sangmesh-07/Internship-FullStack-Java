@@ -1,0 +1,29 @@
+📅 Day 44 – Bootstrap Components
+
+Full Stack Web Development with Java Internship
+
+Today’s session focused on exploring Bootstrap components used to design modern and user-friendly web interfaces. The mentor demonstrated how ready-made UI elements help in building web pages quickly and efficiently.
+
+🔹 Topics Covered
+1️⃣ Bootstrap Components
+
+Bootstrap provides pre-designed components that can be easily used with classes:
+
+Buttons → Styled buttons using btn classes
+Cards → Content containers with images and text
+Navbar → Navigation bar for websites
+Alerts → Display important messages
+Modals → Popup dialog boxes
+2️⃣ Advantages of Bootstrap Components
+Reduces development time
+Easy to use and customize
+Responsive by default
+Consistent design across pages
+🔹 Practical Work
+
+During the practice session, I:
+
+Created sample pages using Bootstrap components
+Used buttons, cards, navbar, alerts, and modals
+Customized component styles
+Built simple UI layouts quickly
