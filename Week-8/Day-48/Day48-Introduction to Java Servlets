@@ -1,0 +1,36 @@
+📅 Day 48 – Introduction to Java Servlets
+
+Full Stack Web Development with Java Internship
+
+Today’s session focused on Java Servlets and their role in web application development. The mentor explained how servlets run on the server and handle client requests through a web container.
+
+🔹 Topics Covered
+1️⃣ Introduction to Servlets
+Servlets are Java programs that run on the server
+Used to handle client requests and generate responses
+Work within a web container (e.g., Apache Tomcat)
+2️⃣ Servlet Lifecycle
+
+The lifecycle of a servlet includes the following stages:
+
+✅ init()
+Called once when the servlet is initialized
+Used for setup tasks
+✅ service()
+Handles client requests
+Calls doGet() or doPost() methods
+✅ destroy()
+Called before the servlet is removed
+Used for cleanup tasks
+3️⃣ Request & Response Handling
+HttpServletRequest → Receives client request
+HttpServletResponse → Sends response to client
+Used to generate dynamic web content
+🔹 Practical Work
+
+During the practice session, I:
+
+Implemented basic servlet examples
+Observed how requests are processed
+Generated responses using servlet methods
+Understood server-side processing flow
