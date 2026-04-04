@@ -1,0 +1,33 @@
+📅 Day 49 – Handling GET & POST Requests in Servlets
+
+Full Stack Web Development with Java Internship
+
+Today’s session focused on handling client requests in servlets using GET and POST methods. The mentor explained how data is sent from the client to the server and how these methods differ in terms of usage and security.
+
+🔹 Topics Covered
+1️⃣ GET Method
+Data is sent through URL parameters
+Suitable for retrieving data
+Limited data size
+Less secure (data visible in URL)
+2️⃣ POST Method
+Data is sent in the request body
+Suitable for sending sensitive data
+No size limitation
+More secure than GET
+3️⃣ Servlet Methods
+doGet() → Handles GET requests
+doPost() → Handles POST requests
+
+These methods process client requests and generate responses.
+
+🔹 Practical Work
+
+During the practice session, I:
+
+Created HTML forms to send user input
+Developed servlets to handle GET and POST requests
+Retrieved form data using request object
+Displayed output in the browser
+
+This helped me understand how user input is transmitted and processed in web applications.
