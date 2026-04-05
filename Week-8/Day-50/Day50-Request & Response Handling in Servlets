@@ -1,0 +1,32 @@
+📅 Day 50 – Request & Response Handling in Servlets
+
+Full Stack Web Development with Java Internship
+
+Today’s session focused on handling client-server communication using request and response objects in servlets. The mentor explained how data is received from the client and how responses are sent back dynamically.
+
+🔹 Topics Covered
+1️⃣ Request Object (HttpServletRequest)
+Used to receive data from the client (browser)
+Retrieves form data using methods like:
+getParameter()
+getParameterValues()
+Stores information about the request
+2️⃣ Response Object (HttpServletResponse)
+Used to send output back to the client
+Generates dynamic content (HTML response)
+Uses PrintWriter to display output
+3️⃣ Client-Server Communication Flow
+Client sends request (form data)
+Servlet receives request using request object
+Data is processed on server
+Response is sent back to client
+🔹 Practical Work
+
+During the practice session, I:
+
+Created forms to collect user input
+Used request object to extract parameters
+Processed input data in servlet
+Used response object to display results dynamically
+
+This helped me understand how data flows between the client and server in real-time applications.
