@@ -1,0 +1,35 @@
+📅 Day 51 – Introduction to JSP (JavaServer Pages)
+
+Full Stack Web Development with Java Internship
+
+Today’s session focused on JSP (JavaServer Pages) and its role in developing dynamic web applications. The mentor explained how JSP simplifies server-side programming by allowing Java code to be embedded directly into HTML.
+
+🔹 Topics Covered
+1️⃣ Introduction to JSP
+JSP is used to create dynamic web content
+Allows embedding Java code within HTML
+Easier to use compared to servlets for UI development
+Runs on the server and generates HTML response
+2️⃣ JSP Directives
+
+JSP directives are used to control page configuration:
+
+✅ page Directive
+Defines page-level settings (language, import, etc.)
+<%@ page language="java" %>
+✅ include Directive
+Includes content from another file
+<%@ include file="header.jsp" %>
+✅ taglib Directive
+Used to include custom tag libraries (JSTL)
+<%@ taglib uri="..." prefix="c" %>
+🔹 Practical Work
+
+During the practice session, I:
+
+Created basic JSP pages
+Embedded Java code inside HTML
+Used JSP directives for configuration
+Included external files using include directive
+
+This helped me understand how JSP simplifies server-side web development.
