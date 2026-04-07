@@ -1,0 +1,30 @@
+📅 Day 52 – JSP Scriptlets & Expressions
+
+Full Stack Web Development with Java Internship
+
+Today’s session focused on JSP scripting elements, specifically scriptlets and expressions. The mentor explained how Java code can be embedded into JSP pages to perform logic and display dynamic content.
+
+🔹 Topics Covered
+1️⃣ JSP Scriptlets
+Scriptlets allow embedding Java code inside JSP
+Used to perform logic operations
+🔹 Syntax:
+<%
+    // Java code
+%>
+2️⃣ JSP Expressions
+Used to display dynamic values directly in the output
+Automatically prints the result
+🔹 Syntax:
+<%= expression %>
+3️⃣ Difference Between Scriptlet & Expression
+Scriptlet → Used for logic and processing
+Expression → Used for displaying output
+🔹 Practical Work
+
+During the practice session, I:
+
+Created JSP pages using scriptlets
+Performed logic operations using Java code
+Used expressions to display dynamic results
+Tested dynamic content rendering in browser
