@@ -1,0 +1,33 @@
+📅 Day 53 – JSTL & JavaBeans in JSP
+
+Full Stack Web Development with Java Internship
+
+Today’s session focused on JSTL (JavaServer Pages Standard Tag Library) and JavaBeans, which help in writing clean and maintainable JSP code without embedding Java logic directly.
+
+🔹 Topics Covered
+1️⃣ JSTL (JavaServer Pages Standard Tag Library)
+JSTL provides predefined tags to perform common operations
+Reduces the need for Java code in JSP
+Makes code cleaner and more readable
+Common JSTL Tags:
+<c:forEach> → Looping
+<c:if> → Conditional statements
+<c:out> → Display output
+2️⃣ JavaBeans
+JavaBeans are simple Java classes used to store data
+Follow standard conventions:
+Private variables
+Public getter and setter methods
+Used to transfer data between JSP and backend
+🔹 Advantages
+Cleaner code (no scriptlets)
+Better separation of logic and presentation
+Improved maintainability
+🔹 Practical Work
+
+During the practice session, I:
+
+Used JSTL tags for looping and condition checking
+Created JavaBeans to store and manage data
+Integrated JavaBeans with JSP pages
+Reduced use of scriptlets for cleaner code
