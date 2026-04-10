@@ -1,0 +1,35 @@
+📅 Day 54 – Session Management (Cookies & HttpSession)
+
+Full Stack Web Development with Java Internship
+
+Today’s session focused on session management in web applications using Cookies and HttpSession. The mentor explained how web applications maintain user data across multiple requests, since HTTP is a stateless protocol.
+
+🔹 Topics Covered
+1️⃣ Session Management
+HTTP is a stateless protocol (no memory of previous requests)
+Session management is used to track user data across multiple requests
+2️⃣ Cookies
+Stored on the client-side (browser)
+Used to store small pieces of data
+Sent with every request to the server
+🔹 Key Methods:
+addCookie()
+getCookies()
+3️⃣ HttpSession
+Stored on the server-side
+Used to maintain user session data
+More secure compared to cookies
+🔹 Key Methods:
+setAttribute()
+getAttribute()
+invalidate()
+🔹 Practical Work
+
+During the practice session, I:
+
+Created programs to store user data using cookies
+Retrieved cookie data from browser
+Used HttpSession to store and manage user information
+Tested session tracking across multiple requests
+
+This helped me understand how session tracking works in real-time web applications.
