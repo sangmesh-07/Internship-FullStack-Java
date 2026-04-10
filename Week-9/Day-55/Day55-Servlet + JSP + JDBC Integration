@@ -1,0 +1,32 @@
+📅 Day 55 – Servlet + JSP + JDBC Integration
+
+Full Stack Web Development with Java Internship
+
+Today’s session focused on integrating Servlet, JSP, and JDBC to understand how a complete web application workflow is built. The mentor explained how these components interact to process user requests and display dynamic data.
+
+🔹 Topics Covered
+1️⃣ Web Application Flow
+User sends request from JSP page
+Servlet receives and processes the request
+JDBC is used to interact with the database
+Response is forwarded to JSP for display
+2️⃣ Role of Each Component
+JSP → User interface (view layer)
+Servlet → Handles logic and request processing (controller)
+JDBC → Performs database operations (model/data layer)
+3️⃣ Data Flow Process
+User enters data in JSP form
+Data is sent to Servlet
+Servlet processes and stores data using JDBC
+Data is retrieved from database
+Result is displayed on JSP page
+🔹 Practical Work
+
+During the practice session, I:
+
+Created JSP forms to collect user input
+Developed servlets to process requests
+Used JDBC to store and retrieve data
+Forwarded results to JSP for display
+
+This helped me understand the complete integration of frontend, backend, and database.
