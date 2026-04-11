@@ -1,0 +1,28 @@
+📅 Day 56 – Web Application Development Setup
+
+Full Stack Web Development with Java Internship
+
+✅ Work Summary
+
+Today’s session focused on the initial setup of web application development. The mentor explained the basic architecture of a web application and how different layers interact to process user requests.
+
+🔹 Topics Covered
+1️⃣ Web Application Architecture
+Presentation Layer → Handles UI (JSP/HTML)
+Business Logic Layer → Processes logic (Servlets)
+Database Layer → Stores and retrieves data (JDBC)
+2️⃣ Project Setup
+Configuring development environment
+Setting up server (Tomcat)
+Organizing project structure
+Creating initial files and folders
+🔹 Practical Work
+
+During the practical session, I:
+
+Set up the web application project structure
+Created basic JSP/HTML pages
+Configured project environment
+Verified project setup and execution
+
+This helped me understand how to start building a web application from scratch.
