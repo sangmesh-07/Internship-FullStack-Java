@@ -1,0 +1,30 @@
+📅 Day 58 – Mini Web Application (Login & Registration System)
+
+Full Stack Web Development with Java Internship
+
+✅ Work Summary
+
+Today’s session focused on developing a mini web application with user registration and login functionality. The mentor explained the workflow of user authentication and how data flows between frontend, backend, and database.
+
+🔹 Topics Covered
+1️⃣ User Authentication Workflow
+Collecting user data through forms
+Storing user details in database
+Validating login credentials
+Ensuring proper data flow between components
+2️⃣ Form & Backend Integration
+Designing registration and login forms
+Connecting forms with servlets
+Handling request and response objects
+Performing database operations using JDBC
+🔹 Practical Work
+
+During the practical session, I:
+
+Developed registration form and login form
+Connected forms with backend logic (Servlet)
+Stored user data in database
+Implemented login validation
+Tested different scenarios (valid/invalid login)
+
+This helped in understanding real-time authentication systems.
