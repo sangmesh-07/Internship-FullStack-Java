@@ -1,0 +1,29 @@
+📅 Day 60 – Web Application Testing
+
+Full Stack Web Development with Java Internship
+
+✅ Work Summary
+
+Today’s session focused on testing the web application to ensure its functionality, reliability, and correctness. The mentor explained different testing techniques and the importance of validating application behavior under various scenarios.
+
+🔹 Topics Covered
+1️⃣ Types of Testing
+Functional Testing → Verifying features work as expected
+Input Validation Testing → Checking valid and invalid inputs
+Usability Testing → Ensuring user-friendly interface
+2️⃣ Testing Process
+Verifying each module individually
+Testing complete workflow
+Checking for errors and unexpected behavior
+Ensuring correct output for different inputs
+🔹 Practical Work
+
+During the practical session, I:
+
+Tested forms and user input handling
+Verified database operations (insert, retrieve)
+Checked user interaction flows
+Identified and fixed issues
+Ensured correct output in different scenarios
+
+This helped improve the overall quality and reliability of the application.
