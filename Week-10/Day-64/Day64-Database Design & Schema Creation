@@ -1,0 +1,29 @@
+📅 Day 64 – Database Design & Schema Creation
+
+Full Stack Web Development with Java Internship
+
+✅ Work Summary
+
+Today’s session focused on designing the database schema for the final project. The mentor explained how to convert project requirements into structured database tables and organize data efficiently.
+
+🔹 Topics Covered
+1️⃣ Database Design
+Converting requirements into tables
+Defining attributes (columns)
+Choosing appropriate data types
+Normalizing data for efficiency
+2️⃣ Constraints & Relationships
+Primary Key → Unique identifier for records
+Foreign Key → Establish relationship between tables
+Maintaining data integrity
+Designing relational structure
+🔹 Practical Work
+
+During the practical session, I:
+
+Designed database tables based on project requirements
+Defined columns and data types
+Applied primary and foreign key constraints
+Established relationships between tables
+
+This ensured efficient data storage, retrieval, and consistency.
