@@ -1,0 +1,28 @@
+📅 Day 74 – Web Application Deployment Basics
+
+Full Stack Web Development with Java Internship
+
+✅ Work Summary
+
+Today’s session focused on the basics of deploying a web application. The mentor explained the steps involved in preparing the project for deployment and making it accessible in a server environment.
+
+🔹 Topics Covered
+1️⃣ Deployment Preparation
+Packaging the application (WAR file)
+Configuring project structure
+Managing dependencies
+Preparing application for server environment
+2️⃣ Server Configuration
+Setting up server (Apache Tomcat)
+Deploying application on server
+Ensuring proper configuration for execution
+🔹 Practical Work
+
+During the practical session, I:
+
+Explored how to package the project
+Configured the application for deployment
+Reviewed steps to host the application
+Understood how users access deployed applications
+
+This helped in understanding the deployment process of real-world web applications.
