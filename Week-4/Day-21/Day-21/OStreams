@@ -1,0 +1,63 @@
+📅 Day 21 – Java I/O Streams
+
+Full Stack Web Development with Java Internship
+
+Today’s session focused on Java I/O Streams and their role in handling input and output operations in Java programs. The mentor explained how streams allow data to flow between a program and external sources such as files.
+
+🔹 Topics Covered
+1️⃣ Introduction to I/O Streams
+
+I/O stands for Input and Output.
+
+Streams are used to read data from input sources and write data to output destinations.
+
+Common sources include files, keyboard input, and network connections.
+
+2️⃣ Types of Streams
+✅ Byte Streams
+
+Used for handling binary data such as images, audio, and video files.
+
+Works with 8-bit bytes.
+
+Examples:
+
+FileInputStream
+
+FileOutputStream
+
+✅ Character Streams
+
+Used for handling character-based data such as text files.
+
+Works with 16-bit Unicode characters.
+
+Examples:
+
+FileReader
+
+FileWriter
+
+BufferedReader
+
+BufferedWriter
+
+3️⃣ File Handling Classes
+
+The mentor introduced several important classes used for file operations:
+
+FileInputStream → Reads data from a file
+
+FileOutputStream → Writes data to a file
+
+BufferedReader → Efficient reading of text data
+
+BufferedWriter → Efficient writing of text data
+
+🔹 Practical Implementation
+
+Wrote programs to read data from a file using input streams.
+
+Implemented programs to write output into a file.
+
+Practiced using buffered streams for better performance.

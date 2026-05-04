@@ -1,0 +1,28 @@
+📅 Day 38 – JavaScript Variables & Functions
+
+Full Stack Web Development with Java Internship
+
+Today’s session focused on the fundamentals of JavaScript, particularly variables and functions, which are essential for adding interactivity to web pages.
+
+🔹 Topics Covered
+1️⃣ JavaScript Variables
+Variables are used to store data in JavaScript
+Types of variable declarations:
+var → Function scoped, can be redeclared
+let → Block scoped, cannot be redeclared
+const → Block scoped, value cannot be changed
+
+2️⃣ Functions in JavaScript
+Functions are reusable blocks of code
+Used to perform specific tasks
+Improve code organization and reusability
+🔹 Syntax:
+function functionName() {
+    // code
+}
+
+🔹 Practical Work
+Declared variables using var, let, and const
+Performed basic operations using variables
+Created functions to execute tasks
+Tested function calls and outputs

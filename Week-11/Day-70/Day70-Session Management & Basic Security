@@ -1,0 +1,29 @@
+📅 Day 70 – Session Management & Basic Security
+
+Full Stack Web Development with Java Internship
+
+✅ Work Summary
+
+Today’s session focused on managing user sessions and implementing basic security practices in the web application. The mentor explained how session tracking helps maintain user state across multiple requests.
+
+🔹 Topics Covered
+1️⃣ Session Management
+Maintaining user state using HttpSession
+Managing login sessions
+Session timeout and expiration
+Session invalidation (logout)
+2️⃣ Basic Security Practices
+Preventing unauthorized access
+Restricting access to protected pages
+Handling sensitive data securely
+Validating user authentication
+🔹 Practical Work
+
+During the practical session, I:
+
+Implemented session handling using HttpSession
+Maintained user login state across pages
+Restricted access to authorized users only
+Tested session timeout and logout functionality
+
+This helped in improving the security and reliability of the application.

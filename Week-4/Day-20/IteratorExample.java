@@ -6,11 +6,10 @@ import java.util.Map;
 public class IteratorExample {
 
     public static void main(String[] args) {
-
         HashMap<Integer, String> students = new HashMap<>();
         students.put(1, "Sangmesh");
-        students.put(2, "Niteesh");
-        students.put(3, "Pankaj");
+        students.put(2, "Rahul");
+        students.put(3, "Anjali");
 
         // Using Iterator
         Iterator<Map.Entry<Integer, String>> iterator = students.entrySet().iterator();
@@ -21,8 +20,3 @@ public class IteratorExample {
         }
     }
 }
-/*output
-ID: 1, Name: Sangmesh
-ID: 2, Name: Niteesh
-ID: 3, Name: Pankaj
-*/  
